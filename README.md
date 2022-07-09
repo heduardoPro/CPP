@@ -1,2 +1,2 @@
 # Cpp
- Estudos da linguagem C++
+ Estudos em C++
